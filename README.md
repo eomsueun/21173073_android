@@ -10,5 +10,6 @@
  <img width="280" height="" src="./pic/3주차_전화걸기.png"></img>
 
 #5주차 (2022-04-05)
- <img width="480" height="" src="./pic/5주차과제.png"></img>
- <img width="480" height="" src="./pic/5주차_소스코드.png"></img>
+
+ <img width="380" height="" src="./pic/5주차과제.png"></img>
+ <img width="380" height="" src="./pic/5주차_소스코드.png"></img>
