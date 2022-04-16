@@ -16,7 +16,7 @@
  
  ## 6주차 (2022-04-12)
  
- <img width="680" height="" src="./pic/6주차_넓이.png"></img>
- <img width="680" height="" src="./pic/6주차_높이.png"></img>
- <img width="380" height="" src="./pic/6주차_소스코드1.png"></img>
- <img width="380" height="" src="./pic/6차_소스코드2.png"></img>
+ <img width="580" height="" src="./pic/6주차_넓이.png"></img>
+ <img width="580" height="" src="./pic/6주차_높이.png"></img>
+ <img width="580" height="" src="./pic/6주차_소스코드1.png"></img>
+ <img width="580" height="" src="./pic/6주차_소스코드2.png"></img>
