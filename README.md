@@ -27,3 +27,8 @@
  <img width="280" height="" src="./pic/10주차_1.png"></img>
  <img width="280" height="" src="./pic/10주차_2.png"></img>
  <img width="280" height="" src="./pic/10주차_3.png"></img>
+
+# 11주차 (2022-05-21)
+ - 앱 요청하기
+ <img width="280" height="" src="./pic/11주차_1.png"></img>
+ <img width="280" height="" src="./pic/11주차_2.png"></img>
